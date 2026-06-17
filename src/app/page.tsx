@@ -18,7 +18,7 @@ export default function Home() {
       </div>
 
       <footer className="w-full bg-neutral-950/80 backdrop-blur-md border-t border-white/5 py-8 mt-12 text-center text-neutral-500 text-sm">
-        <p>© {new Date().getFullYear()} YSF. All rights reserved.</p>
+        <p>© {new Date().getFullYear()} RK. All rights reserved.</p>
       </footer>
     </main>
   );
